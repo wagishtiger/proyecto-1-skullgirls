@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.contenedor{
+  width: 90%;
+  max: whide 1200px; 
+  overflow: hidden;
+  margin: auto;
+  padding: 60px 0; 
+}
+
+header{
+  height:100vh;
+  background-image: linear-gradient(to right, #434343 0%, #0d0d0d 100%);
+  
+}
